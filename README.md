@@ -1,1 +1,1 @@
-# https://github.com/poornimamahendran/poornimadesigner.github.io
+# poornimadesigner.github.io
